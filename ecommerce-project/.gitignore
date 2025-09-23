@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+
+# .gitignore tells git which files and folders to ignore(not to track changes)
